@@ -27,3 +27,8 @@ Shriram Life Insurance Company Limited, Hyderabad, Telangana
 
  CERTIFICATION ;
   Training a 6-months offline training program on Programming, AI/ML, and Data Science at VCube Software Solutions (June 2025 - Dec 2025).
+
+
+  hobbies: playing volleyball
+           GYM, fitness & strenght
+           bike riding(travelling)
