@@ -2,6 +2,8 @@ Hi, I'm Raghavendar chary kanukanti
 AI/ML and DATA SCIENCE — python • SQL • NLP(Natural language preprocessing) • Data science • Deep Learning . Mechine Learning
 
 🔭 Current project
+
+
 1: Netflix user viewing pattern analysis (Data preprocessing, Visualization Matplotlib, Seaborn and Machine Learing Models).
     project 
     
