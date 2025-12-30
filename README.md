@@ -6,6 +6,7 @@ AI/ML and DATA SCIENCE — python • SQL • NLP(Natural language preprocessing
 
 1: Netflix user viewing pattern analysis (Data preprocessing, Visualization Matplotlib, Seaborn and Machine Learing Models).
     project 
+    project link:   http://localhost:8888/notebooks/netflix-movies-tv-shows-eda-project-Copy1.ipynb
     
 2: constitution in NLP (machine Learning context) Exprienced in applying NLP techniques for text analysis for text analysis and understanding, including tokenization, stemming, lemmatization are extraction. skilled in building ML models for tasks like sentiment analysis , text classification and named entity recognition using libraries such as NLTK, spacy, and Scikit Learning.
 
