@@ -1,7 +1,7 @@
 Hi, I'm Raghavendar chary kanukanti 
 AI/ML and DATA SCIENCE — python • SQL • NLP(Natural language preprocessing) • Data science • Deep Learning . Mechine Learning
 
-🔭 Current project
+# Current project 🔭 
 
 
 1: Netflix user viewing pattern analysis (Data preprocessing, Visualization Matplotlib, Seaborn and Machine Learing Models).
@@ -24,7 +24,8 @@ Deep Learing
 AREAS OF INTREST: Data analytics, Manchine Learning
 Problrm sloving
 
-INTERNSHIP;
+# INTERNSHIP;
+
 Shriram Life Insurance Company Limited, Hyderabad, Telangana
  Dec 2023 — Feb 2024
  Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.
@@ -32,7 +33,8 @@ Shriram Life Insurance Company Limited, Hyderabad, Telangana
  Analyzed problems and worked with teams to develop solutions.
  Contributed to a positive team environment by collaborating with fellow interns on group projects and presentations.
 
- CERTIFICATION ;
+ # CERTIFICATION ;
+ 
    Training a 6-months offline training program on Programming, AI/ML, and Data Science at VCube Software Solutions (June 2025 - Dec 2025).
 
    Certified by -" CISCO " Data Science.
