@@ -33,13 +33,13 @@ Shriram Life Insurance Company Limited, Hyderabad, Telangana
  Contributed to a positive team environment by collaborating with fellow interns on group projects and presentations.
 
  CERTIFICATION ;
-  # Training a 6-months offline training program on Programming, AI/ML, and Data Science at VCube Software Solutions (June 2025 - Dec 2025).
+   Training a 6-months offline training program on Programming, AI/ML, and Data Science at VCube Software Solutions (June 2025 - Dec 2025).
 
-  # Certified by -" CISCO " Data Science.
-  Learned of data analytics, AI, and Mechine Learning.
-  Understood the role of Data in AI and ML.
+   Certified by -" CISCO " Data Science.
+  *Learned of data analytics, AI, and Mechine Learning.
+  *Understood the role of Data in AI and ML.
   
-  🌐 LINK : file:///C:/Users/Raghu%20Chary/Downloads/IntrotoDataScienceUpdate20260101-32-p2dydb.pdf
+  🌐 LINK : https://www.credly.com/users/raghavendar-chary-kanukanti
   
     
   
